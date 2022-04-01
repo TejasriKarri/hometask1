@@ -1,0 +1,447 @@
+.header{
+    background-color:rgb(27,59,73);
+    border:5px;
+    padding:1rem;
+    
+}
+.main_heading{
+    width:10%;
+    background-color:whitesmoke;
+    border:2px solid orange;
+    padding:1%;
+    float:center;
+    margin-left:43%;  
+}
+.main_heading b{
+    font-size: medium;
+}
+.second_header1
+{
+    margin-top: 2rem;
+}
+.second_header1 b{
+   font-family:verdana;
+   font-size: small;.
+}
+.second_header2 select{
+    float:bottom;
+    width:15%;
+    position:absolute;
+}
+.second_header2 h3{
+    margin-left: 43%;
+    color:rgb(27,59,73);
+}
+.second_header2 b{
+    font-family:verdana;
+    font-size: small;
+    position:absolute;
+    top:11rem;
+    margin-left: 78%;
+    color:rgb(27,59,73);
+}
+.second_header2 input{
+    font-family:verdana;
+    font-size: small;
+    position:absolute;
+    top:13rem;
+    margin-left: 78%;
+}
+.second_header2 button{
+    position:absolute;
+    top:13rem;
+    margin-left: 90%;
+    background-color: black;
+    color: white;
+}
+.empty{
+    border:2px solid white; 
+    background-color: lightgrey;
+    width:1rem;
+    padding:5rem;
+    margin-bottom: 2%;
+}
+.title h2{
+    margin-left: 15%;
+    position:absolute;
+    top:15rem;
+    color:black;
+}
+.title sub{
+    margin-left: 15%;
+    position:absolute;
+    top:18rem;
+}
+.title pre{
+    margin-left: 6%;
+    position:absolute;
+    top:19rem;
+}
+.title button{
+    margin-left: 15%;
+    position:absolute;
+    top:63%;
+    background-color: orange;
+    color:white;
+}
+.title2 h2{
+    margin-left: 15%;
+    position:absolute;
+    top:26rem;
+    color:black;
+}
+.title2 sub{
+    margin-left: 15%;
+    position:absolute;
+    top:29rem;
+}
+.title2 pre{
+    margin-left: 6%;
+    position:absolute;
+    top:30rem;
+}
+.title2 button{
+    margin-left: 15%;
+    position:absolute;
+    top:93%;
+    background-color: orange;
+    color:white;
+}
+.title3 h2{
+    margin-left: 15%;
+    position:absolute;
+    top:38rem;
+    color:black;
+}
+.title3 sub{
+    margin-left: 15%;
+    position:absolute;
+    top:41rem;
+}
+.title3 pre{
+    margin-left: 6%;
+    position:absolute;
+    top:42rem;
+}
+.title3 button{
+    margin-left: 15%;
+    position:absolute;
+    top:125%;
+    background-color: orange;
+    color:white;
+}
+.bottomheading
+{
+    background-color:rgb(27,59,73);
+    border:5px;
+    padding:1rem;
+    
+}
+.bottomheading b{
+    color:white;
+    margin-left:45%;
+}
+.line1{
+    height:2px;
+    background:lightgray;
+    width:68%;
+    position: absolute;
+    top:69%;
+}
+.line2{
+    height:2px;
+    background:lightgray;
+    width:68%;
+    position: absolute;
+    top:100%; 
+}
+@media screen and (max-width:376px) and (orientation:portrait) {
+.main_heading{
+        width:20%;
+        background-color:whitesmoke;
+        border:2px solid orange;
+        padding:1%;
+        float:center;
+        margin-left:39%;  
+
+    } 
+.header{
+    background-color:rgb(27,59,73);
+    border:5px;
+    padding:1rem;
+    width:190%;
+    
+}
+.second_header2 h3{
+    margin-left: 65%;
+    color:rgb(27,59,73);
+}
+.second_header2 b{
+    font-family:verdana;
+    font-size: small;
+    position:absolute;
+    top:10rem;
+    margin-left: 125%;
+    color:rgb(27,59,73);
+}
+.second_header2 input{
+    font-family:verdana;
+    font-size: small;
+    position:absolute;
+    top:12rem;
+    margin-left: 125%;
+}
+.second_header2 button{
+    position:absolute;
+    top:12rem;
+    margin-left: 155%;
+    background-color: black;
+    color: white;
+}
+.second_header2 hr{
+     width:197%;
+}
+.title h2{
+    margin-left: 50%;
+    position:absolute;
+    top:14rem;
+    color:black;
+}
+.title sub{
+    margin-left: 50%;
+    position:absolute;
+    top:17rem;
+    white-space: nowrap;
+}
+.title pre{
+    margin-left: 19%;
+    position:absolute;
+    top:18rem;
+}
+.title button{
+    margin-left: 49%;
+    position:absolute;
+    top:55%;
+    background-color: orange;
+    color:white;
+}
+.title2 h2{
+    margin-left: 50%;
+    position:absolute;
+    top:25rem;
+    color:black;
+}
+.title2 sub{
+    margin-left: 50%;
+    position:absolute;
+    top:28rem;
+    white-space: nowrap;
+}
+.title2 pre{
+    margin-left: 19%;
+    position:absolute;
+    top:29rem;
+}
+.title2 button{
+    margin-left: 49%;
+    position:absolute;
+    top:82%;
+    background-color: orange;
+    color:white;
+}
+.title3 h2{
+    margin-left: 50%;
+    position:absolute;
+    top:36rem;
+    color:black;
+}
+.title3 sub{
+    margin-left: 50%;
+    position:absolute;
+    top:39rem;
+    white-space: nowrap;
+}
+.title3 pre{
+    margin-left: 19%;
+    position:absolute;
+    top:40rem;
+}
+.title3 button{
+    margin-left: 49%;
+    position:absolute;
+    top:108%;
+    background-color: orange;
+    color:white;
+}
+.bottomheading
+{
+    background-color:rgb(27,59,73);
+    border:5px;
+    padding:1rem;
+    width:200%;
+    
+}
+.bottomheading b{
+    color:white;
+    margin-left:42%;
+}
+.line1{
+    height:2px;
+    background:lightgray;
+    width:180%;
+    position: absolute;
+    top:60%;
+}
+.line2{
+    height:2px;
+    background:lightgray;
+    width:180%;
+    position: absolute;
+    top:86%; 
+}
+}
+@media screen and (max-width:416px) and (orientation:portrait) {
+    .main_heading{
+            width:20%;
+            background-color:whitesmoke;
+            border:2px solid orange;
+            padding:1%;
+            float:center;
+            margin-left:39%;  
+    
+        } 
+    .header{
+        background-color:rgb(27,59,73);
+        border:5px;
+        padding:1rem;
+        width:190%;
+        
+    }
+    .second_header2 h3{
+        margin-left: 65%;
+        color:rgb(27,59,73);
+    }
+    .second_header2 b{
+        font-family:verdana;
+        font-size: small;
+        position:absolute;
+        top:10rem;
+        margin-left: 125%;
+        color:rgb(27,59,73);
+    }
+    .second_header2 input{
+        font-family:verdana;
+        font-size: small;
+        position:absolute;
+        top:12rem;
+        margin-left: 125%;
+    }
+    .second_header2 button{
+        position:absolute;
+        top:12rem;
+        margin-left: 155%;
+        background-color: black;
+        color: white;
+    }
+    .second_header2 hr{
+         width:197%;
+    }
+    .title h2{
+        margin-left: 47%;
+        position:absolute;
+        top:14rem;
+        color:black;
+    }
+    .title sub{
+        margin-left: 47%;
+        position:absolute;
+        top:17rem;
+        white-space: nowrap;
+    }
+    .title pre{
+        margin-left: 19%;
+        position:absolute;
+        top:18rem;
+    }
+    .title button{
+        margin-left: 47%;
+        position:absolute;
+        top:42%;
+        background-color: orange;
+        color:white;
+    }
+    .title2 h2{
+        margin-left: 47%;
+        position:absolute;
+        top:25rem;
+        color:black;
+    }
+    .title2 sub{
+        margin-left: 47%;
+        position:absolute;
+        top:28rem;
+        white-space: nowrap;
+    }
+    .title2 pre{
+        margin-left: 19%;
+        position:absolute;
+        top:29rem;
+    }
+    .title2 button{
+        margin-left: 46%;
+        position:absolute;
+        top:61%;
+        background-color: orange;
+        color:white;
+    }
+    .title3 h2{
+        margin-left: 47%;
+        position:absolute;
+        top:36rem;
+        color:black;
+    }
+    .title3 sub{
+        margin-left: 47%;
+        position:absolute;
+        top:39rem;
+        white-space: nowrap;
+    }
+    .title3 pre{
+        margin-left: 19%;
+        position:absolute;
+        top:40rem;
+    }
+    .title3 button{
+        margin-left: 49%;
+        position:absolute;
+        top:80%;
+        background-color: orange;
+        color:white;
+    }
+    .bottomheading
+    {
+        background-color:rgb(27,59,73);
+        border:5px;
+        padding:1rem;
+        width:208%;
+        
+    }
+    .bottomheading b{
+        color:white;
+        margin-left:42%;
+    }
+    .line1{
+        height:2px;
+        background:lightgray;
+        width:180%;
+        position: absolute;
+        top:60%;
+    }
+    .line2{
+        height:2px;
+        background:lightgray;
+        width:155%;
+        position: absolute;
+        top:64%; 
+    }
+    }
