@@ -73,9 +73,11 @@
     top:18rem;
 }
 .title pre{
-    margin-left: 6%;
+    margin-left: 9.5%;
     position:absolute;
     top:19rem;
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 85%;
 }
 .title button{
     margin-left: 15%;
@@ -96,9 +98,12 @@
     top:29rem;
 }
 .title2 pre{
-    margin-left: 6%;
+    font-family: Tahoma, Verdana, sans-serif;
+    margin-left: 9.5%;
     position:absolute;
     top:30rem;
+    font-size: 85%;
+
 }
 .title2 button{
     margin-left: 15%;
@@ -119,9 +124,12 @@
     top:41rem;
 }
 .title3 pre{
-    margin-left: 6%;
+    font-family: Tahoma, Verdana, sans-serif;
+    margin-left: 9.5%;
     position:absolute;
     top:42rem;
+    font-size: 85%;
+
 }
 .title3 button{
     margin-left: 15%;
@@ -144,161 +152,16 @@
 .line1{
     height:2px;
     background:lightgray;
-    width:68%;
+    width:61%;
     position: absolute;
     top:69%;
 }
 .line2{
     height:2px;
     background:lightgray;
-    width:68%;
+    width:61%;
     position: absolute;
     top:100%; 
-}
-@media screen and (max-width:376px) and (orientation:portrait) {
-.main_heading{
-        width:20%;
-        background-color:whitesmoke;
-        border:2px solid orange;
-        padding:1%;
-        float:center;
-        margin-left:39%;  
-
-    } 
-.header{
-    background-color:rgb(27,59,73);
-    border:5px;
-    padding:1rem;
-    width:190%;
-    
-}
-.second_header2 h3{
-    margin-left: 65%;
-    color:rgb(27,59,73);
-}
-.second_header2 b{
-    font-family:verdana;
-    font-size: small;
-    position:absolute;
-    top:10rem;
-    margin-left: 125%;
-    color:rgb(27,59,73);
-}
-.second_header2 input{
-    font-family:verdana;
-    font-size: small;
-    position:absolute;
-    top:12rem;
-    margin-left: 125%;
-}
-.second_header2 button{
-    position:absolute;
-    top:12rem;
-    margin-left: 155%;
-    background-color: black;
-    color: white;
-}
-.second_header2 hr{
-     width:197%;
-}
-.title h2{
-    margin-left: 50%;
-    position:absolute;
-    top:14rem;
-    color:black;
-}
-.title sub{
-    margin-left: 50%;
-    position:absolute;
-    top:17rem;
-    white-space: nowrap;
-}
-.title pre{
-    margin-left: 19%;
-    position:absolute;
-    top:18rem;
-}
-.title button{
-    margin-left: 49%;
-    position:absolute;
-    top:55%;
-    background-color: orange;
-    color:white;
-}
-.title2 h2{
-    margin-left: 50%;
-    position:absolute;
-    top:25rem;
-    color:black;
-}
-.title2 sub{
-    margin-left: 50%;
-    position:absolute;
-    top:28rem;
-    white-space: nowrap;
-}
-.title2 pre{
-    margin-left: 19%;
-    position:absolute;
-    top:29rem;
-}
-.title2 button{
-    margin-left: 49%;
-    position:absolute;
-    top:82%;
-    background-color: orange;
-    color:white;
-}
-.title3 h2{
-    margin-left: 50%;
-    position:absolute;
-    top:36rem;
-    color:black;
-}
-.title3 sub{
-    margin-left: 50%;
-    position:absolute;
-    top:39rem;
-    white-space: nowrap;
-}
-.title3 pre{
-    margin-left: 19%;
-    position:absolute;
-    top:40rem;
-}
-.title3 button{
-    margin-left: 49%;
-    position:absolute;
-    top:108%;
-    background-color: orange;
-    color:white;
-}
-.bottomheading
-{
-    background-color:rgb(27,59,73);
-    border:5px;
-    padding:1rem;
-    width:200%;
-    
-}
-.bottomheading b{
-    color:white;
-    margin-left:42%;
-}
-.line1{
-    height:2px;
-    background:lightgray;
-    width:180%;
-    position: absolute;
-    top:60%;
-}
-.line2{
-    height:2px;
-    background:lightgray;
-    width:180%;
-    position: absolute;
-    top:86%; 
-}
 }
 @media screen and (max-width:416px) and (orientation:portrait) {
     .main_heading{
@@ -359,9 +222,11 @@
         white-space: nowrap;
     }
     .title pre{
-        margin-left: 19%;
+        margin-left: 31%;
         position:absolute;
         top:18rem;
+        font-family: Tahoma, Verdana, sans-serif;
+        font-size: 75%;
     }
     .title button{
         margin-left: 47%;
@@ -383,9 +248,11 @@
         white-space: nowrap;
     }
     .title2 pre{
-        margin-left: 19%;
+        margin-left: 31%;
         position:absolute;
         top:29rem;
+        font-family: Tahoma, Verdana, sans-serif;
+        font-size: 75%;
     }
     .title2 button{
         margin-left: 46%;
@@ -407,9 +274,11 @@
         white-space: nowrap;
     }
     .title3 pre{
-        margin-left: 19%;
+        margin-left: 31%;
         position:absolute;
         top:40rem;
+        font-family: Tahoma, Verdana, sans-serif;
+        font-size: 75%;
     }
     .title3 button{
         margin-left: 49%;
@@ -433,9 +302,9 @@
     .line1{
         height:2px;
         background:lightgray;
-        width:180%;
+        width:155%;
         position: absolute;
-        top:60%;
+        top:45%;
     }
     .line2{
         height:2px;
